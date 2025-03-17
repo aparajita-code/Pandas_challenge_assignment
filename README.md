@@ -1,5 +1,43 @@
 # Pandas_challenge Analysis
 
+
+***PyBank and PyPoll Analysis**
+This repository contains Python scripts for analyzing financial data (PyBank) and election polling data (PyPoll). The project demonstrates efficient data processing, calculations, and results exporting using Python.
+
+**Features**
+# PyBank:
+
+Calculates total months, total profits/losses, average changes, and identifies greatest increases/decreases.
+
+# PyPoll:
+
+Computes total votes, percentage votes for each candidate, and identifies the winner.
+
+Exports results to a text file for easy sharing.
+
+Clean and error-free code with comments for clarity.
+
+***How to Use***
+Clone the repository.
+
+Run pybank.py and pypoll.py scripts in Python.
+
+View results in the terminal and output text files.
+
+***Repository Contents***
+Python scripts for PyBank and PyPoll.
+
+Input CSV files for data analysis.
+
+Output text files with summarized results.
+
+***License***
+This project is open-source and available under the MIT License.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Findings
+
 **District Summary:**
 
 1. Huang High school is getting the maximum per student budget ,they need work on Average Math  score  and % math passing to maintain the financial support from District.
